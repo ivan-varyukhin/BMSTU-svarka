@@ -1,0 +1,3 @@
+PyQt5
+pickle-mixin
+scikit-learn
